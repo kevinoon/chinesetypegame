@@ -1,4 +1,4 @@
-# Typing Game
+# Chinese Typing Game
 
 A small TypeScript + React typing game scaffolded with Vite.
 
