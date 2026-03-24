@@ -1,5 +1,6 @@
 {
   "name": "chinesetypegame",
+<<<<<<< HEAD
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -43,4 +44,15 @@
     "vue-tsc": "^3.2.5"
 >>>>>>> 2a1b081 (Please work)
   }
+=======
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+>>>>>>> 6efb091 (I don't even know anymore)
 }
